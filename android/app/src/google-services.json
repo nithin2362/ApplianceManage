@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302287834105",
+    "firebase_url": "https://applianacemanagement-default-rtdb.firebaseio.com",
+    "project_id": "applianacemanagement",
+    "storage_bucket": "applianacemanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302287834105:android:0ff505cf0bf35fdbaccb28",
+        "android_client_info": {
+          "package_name": "com.example.appliance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302287834105-hvo7fgakejb96fqnp4g12ngbgr2nivj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnVVlcUQnAhJL8cCObI5RrfkMUDMDC7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302287834105-hvo7fgakejb96fqnp4g12ngbgr2nivj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
