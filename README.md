@@ -1,16 +1,18 @@
-# appliance
+APPLIANCE MANAGEMENT
 
-A new Flutter project.
+Execution:
+-> In order to run the project, download the entire folder as a zip and run it in VS code or Android Studio
+-> In order to enable app notifications, permissions should be given from the mobile.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Installing the App:
+-> Go to APK-> Install app_release.apk
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App Working:
+-> Signup requires username, password and answer for a security question.
+-> A new appliance can be added to the home screen by clicking the '+' button, which navigates to Device add page.
+-> Each device can be clicked to view its state, duration from its last toggle operation and timer.
+-> Clicking the delete button on each device list-tile will delete the device from the homescreen.
+-> Notifications would be pushed if the conditions are met.
+-> Mode can be switched using the red 'x' button on the top right corner.
